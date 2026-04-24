@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 600,
+  "data": {"url": "clean_birth_rates.csv"},
+  "transform": [{"filter": "datum.Level == 'County'"}],
+  "mark": "rect",
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+    "y": {"field": "Area", "type": "nominal", "title": "County"},
+    "color": {
+      "field": "BirthRate", 
+      "type": "quantitative", 
+      "title": "Birth Rate",
+      "scale": {"scheme": "viridis"}
+    },
+    "tooltip": [
+      {"field": "Area"},
+      {"field": "Year"},
+      {"field": "BirthRate", "format": ".1f"}
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 400,
+  "data": {"url": "clean_birth_rates.csv"},
+
+  "params": [
+    {
+      "name": "level",
+      "bind": {
+        "input": "select",
+        "options": ["Province", "Region"],
+        "name": "Level: "
+      },
+      "value": "Province"
+    },
+
+    {
+      "name": "hover",
+      "select": {
+        "type": "point",
+        "on": "mouseover",
+        "clear": "mouseout"
+      }
+    }
+  ],
+
+  "transform": [
+    {"filter": "datum.Level == level"}
+  ],
+
+  "mark": {
+    "type": "line",
+    "strokeWidth": 2,
+    "point": true
+  },
+
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal"
+    },
+
+    "y": {
+      "field": "BirthRate",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    },
+
+    "color": {
+      "field": "Area",
+      "type": "nominal"
+    },
+
+    "opacity": {
+      "condition": {
+        "param": "hover",
+        "value": 1
+      },
+      "value": 0.3
+    },
+
+    "tooltip": [
+      {"field": "Area", "type": "nominal"},
+      {"field": "BirthRate", "type": "quantitative"}
+    ]
+  },
+
+  "title": "Interactive Exploration by Level"
+}

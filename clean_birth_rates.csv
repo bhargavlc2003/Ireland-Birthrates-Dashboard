@@ -1,0 +1,737 @@
+Year,Area,Level,BirthRate
+2008,Border,Region,16.0
+2008,Carlow,County,20.7
+2008,Cavan,County,18.9
+2008,Clare,County,15.9
+2008,Connacht,Province,16.0
+2008,Cork City,County,12.9
+2008,Cork County,County,18.0
+2008,Donegal,County,14.7
+2008,Dublin,Region,16.8
+2008,Dublin City,County,14.5
+2008,Dun Laoghaire-Rathdown,County,13.5
+2008,Fingal,County,21.7
+2008,Galway City,County,14.0
+2008,Galway County,County,18.6
+2008,Kerry,County,14.2
+2008,Kildare,County,20.5
+2008,Kilkenny,County,15.5
+2008,Laois,County,19.5
+2008,Leinster,Province,17.7
+2008,Leitrim,County,16.9
+2008,Limerick City,County,15.0
+2008,Limerick County,County,17.1
+2008,Longford,County,20.2
+2008,Louth,County,17.1
+2008,Mayo,County,14.6
+2008,Meath,County,21.2
+2008,Mid-East,Region,19.6
+2008,Mid-West,Region,16.8
+2008,Midland,Region,18.1
+2008,Monaghan,County,15.1
+2008,Munster,Province,16.3
+2008,Offaly,County,17.1
+2008,Roscommon,County,14.8
+2008,Sligo,County,15.2
+2008,South Dublin,County,18.1
+2008,South-East,Region,16.9
+2008,South-West,Region,16.2
+2008,State,National,17.0
+2008,Tipperary,County,16.3
+2008,Ulster (part of),Province,15.8
+2008,Waterford City,County,18.7
+2008,Waterford County,County,16.3
+2008,West,Region,16.3
+2008,Westmeath,County,18.0
+2008,Wexford,County,18.4
+2008,Wicklow,County,19.0
+2009,Border,Region,15.7
+2009,Carlow,County,18.8
+2009,Cavan,County,18.3
+2009,Clare,County,16.3
+2009,Connacht,Province,15.5
+2009,Cork City,County,14.0
+2009,Cork County,County,17.9
+2009,Donegal,County,15.2
+2009,Dublin,Region,17.1
+2009,Dublin City,County,15.0
+2009,Dun Laoghaire-Rathdown,County,14.1
+2009,Fingal,County,21.8
+2009,Galway City,County,13.7
+2009,Galway County,County,17.5
+2009,Kerry,County,14.8
+2009,Kildare,County,20.5
+2009,Kilkenny,County,15.4
+2009,Laois,County,19.9
+2009,Leinster,Province,17.7
+2009,Leitrim,County,16.0
+2009,Limerick City,County,14.0
+2009,Limerick County,County,17.6
+2009,Longford,County,19.8
+2009,Louth,County,16.2
+2009,Mayo,County,14.0
+2009,Meath,County,20.5
+2009,Mid-East,Region,19.3
+2009,Mid-West,Region,16.9
+2009,Midland,Region,18.1
+2009,Monaghan,County,14.2
+2009,Munster,Province,16.4
+2009,Offaly,County,16.9
+2009,Roscommon,County,14.9
+2009,Sligo,County,15.5
+2009,South Dublin,County,17.9
+2009,South-East,Region,16.4
+2009,South-West,Region,16.5
+2009,State,National,16.9
+2009,Tipperary,County,16.7
+2009,Ulster (part of),Province,15.7
+2009,Waterford City,County,17.5
+2009,Waterford County,County,15.8
+2009,West,Region,15.7
+2009,Westmeath,County,17.8
+2009,Wexford,County,17.4
+2009,Wicklow,County,18.6
+2010,Border,Region,15.1
+2010,Carlow,County,18.1
+2010,Cavan,County,16.8
+2010,Clare,County,14.4
+2010,Connacht,Province,15.3
+2010,Cork City,County,14.1
+2010,Cork County,County,17.1
+2010,Donegal,County,13.9
+2010,Dublin,Region,17.0
+2010,Dublin City,County,16.0
+2010,Dun Laoghaire-Rathdown,County,13.8
+2010,Fingal,County,20.2
+2010,Galway City,County,16.1
+2010,Galway County,County,16.6
+2010,Kerry,County,13.5
+2010,Kildare,County,19.1
+2010,Kilkenny,County,15.2
+2010,Laois,County,17.9
+2010,Leinster,Province,17.3
+2010,Leitrim,County,14.9
+2010,Limerick City,County,13.6
+2010,Limerick County,County,17.5
+2010,Longford,County,17.5
+2010,Louth,County,16.0
+2010,Mayo,County,14.2
+2010,Meath,County,19.6
+2010,Mid-East,Region,19.2
+2010,Mid-West,Region,16.0
+2010,Midland,Region,17.3
+2010,Monaghan,County,14.6
+2010,Munster,Province,15.7
+2010,Offaly,County,16.3
+2010,Roscommon,County,14.1
+2010,Sligo,County,14.5
+2010,South Dublin,County,18.1
+2010,South-East,Region,15.7
+2010,South-West,Region,15.8
+2010,State,National,16.5
+2010,Tipperary,County,15.55
+2010,Ulster (part of),Province,14.8
+2010,Waterford City,County,18.8
+2010,Waterford County,County,14.8
+2010,West,Region,15.5
+2010,Westmeath,County,17.8
+2010,Wexford,County,15.7
+2010,Wicklow,County,18.8
+2011,Border,Region,14.7
+2011,Carlow,County,18.1
+2011,Cavan,County,17.3
+2011,Clare,County,14.8
+2011,Connacht,Province,14.9
+2011,Cork City,County,13.5
+2011,Cork County,County,16.7
+2011,Donegal,County,13.5
+2011,Dublin,Region,17.1
+2011,Dublin City,County,15.7
+2011,Dun Laoghaire-Rathdown,County,13.8
+2011,Fingal,County,20.2
+2011,Galway City,County,15.6
+2011,Galway County,County,16.3
+2011,Kerry,County,14.0
+2011,Kildare,County,18.3
+2011,Kilkenny,County,14.9
+2011,Laois,County,16.6
+2011,Leinster,Province,17.0
+2011,Leitrim,County,14.4
+2011,Limerick City,County,13.6
+2011,Limerick County,County,17.2
+2011,Longford,County,16.1
+2011,Louth,County,15.3
+2011,Mayo,County,13.9
+2011,Meath,County,19.0
+2011,Mid-East,Region,18.0
+2011,Mid-West,Region,15.8
+2011,Midland,Region,16.3
+2011,Monaghan,County,14.5
+2011,Munster,Province,15.5
+2011,Offaly,County,16.2
+2011,Roscommon,County,13.5
+2011,Sligo,County,14.3
+2011,South Dublin,County,18.9
+2011,South-East,Region,15.5
+2011,South-West,Region,15.5
+2011,State,National,16.2
+2011,Tipperary,County,15.3
+2011,Ulster (part of),Province,14.6
+2011,Waterford City,County,17.9
+2011,Waterford County,County,14.4
+2011,West,Region,15.1
+2011,Westmeath,County,16.1
+2011,Wexford,County,15.7
+2011,Wicklow,County,16.5
+2012,Border,Region,14.3
+2012,Carlow,County,16.8
+2012,Cavan,County,15.7
+2012,Clare,County,14.5
+2012,Connacht,Province,14.7
+2012,Cork City,County,12.1
+2012,Cork County,County,16.5
+2012,Donegal,County,12.8
+2012,Dublin,Region,16.8
+2012,Dublin City,County,15.3
+2012,Dun Laoghaire-Rathdown,County,13.6
+2012,Fingal,County,20.2
+2012,Galway City,County,16.4
+2012,Galway County,County,15.5
+2012,Kerry,County,13.5
+2012,Kildare,County,17.2
+2012,Kilkenny,County,14.5
+2012,Laois,County,15.7
+2012,Leinster,Province,16.4
+2012,Leitrim,County,14.2
+2012,Limerick City,County,14.7
+2012,Limerick County,County,15.3
+2012,Longford,County,16.3
+2012,Louth,County,15.2
+2012,Mayo,County,13.4
+2012,Meath,County,17.1
+2012,Mid-East,Region,17.0
+2012,Mid-West,Region,14.8
+2012,Midland,Region,15.9
+2012,Monaghan,County,13.7
+2012,Munster,Province,14.8
+2012,Offaly,County,15.0
+2012,Roscommon,County,13.4
+2012,Sligo,County,14.8
+2012,South Dublin,County,18.4
+2012,South-East,Region,14.8
+2012,South-West,Region,15.1
+2012,State,National,15.6
+2012,Tipperary,County,13.95
+2012,Ulster (part of),Province,13.8
+2012,Waterford City,County,17.2
+2012,Waterford County,County,12.9
+2012,West,Region,14.7
+2012,Westmeath,County,16.7
+2012,Wexford,County,15.2
+2012,Wicklow,County,16.3
+2013,Border,Region,14.1
+2013,Carlow,County,15.8
+2013,Cavan,County,15.5
+2013,Clare,County,12.8
+2013,Connacht,Province,14.3
+2013,Cork City,County,12.6
+2013,Cork County,County,15.5
+2013,Donegal,County,12.3
+2013,Dublin,Region,16.2
+2013,Dublin City,County,15.2
+2013,Dun Laoghaire-Rathdown,County,13.6
+2013,Fingal,County,19.3
+2013,Galway City,County,16.4
+2013,Galway County,County,14.8
+2013,Kerry,County,12.2
+2013,Kildare,County,16.1
+2013,Kilkenny,County,13.8
+2013,Laois,County,14.8
+2013,Leinster,Province,15.8
+2013,Leitrim,County,14.4
+2013,Limerick City,County,15.0
+2013,Limerick County,County,14.3
+2013,Longford,County,15.3
+2013,Louth,County,15.9
+2013,Mayo,County,13.1
+2013,Meath,County,16.9
+2013,Mid-East,Region,16.1
+2013,Mid-West,Region,14.0
+2013,Midland,Region,14.7
+2013,Monaghan,County,14.2
+2013,Munster,Province,14.2
+2013,Offaly,County,13.7
+2013,Roscommon,County,13.2
+2013,Sligo,County,13.8
+2013,South Dublin,County,17.0
+2013,South-East,Region,14.3
+2013,South-West,Region,14.3
+2013,State,National,15.0
+2013,Tipperary,County,14.15
+2013,Ulster (part of),Province,13.5
+2013,Waterford City,County,17.0
+2013,Waterford County,County,13.6
+2013,West,Region,14.3
+2013,Westmeath,County,15.2
+2013,Wexford,County,13.9
+2013,Wicklow,County,14.9
+2014,Border,Region,13.4
+2014,Carlow,County,16.8
+2014,Cavan,County,14.7
+2014,Clare,County,12.5
+2014,Connacht,Province,13.7
+2014,Cork City,County,12.9
+2014,Cork County,County,14.7
+2014,Donegal,County,11.7
+2014,Dublin,Region,15.9
+2014,Dublin City,County,15.0
+2014,Dun Laoghaire-Rathdown,County,13.6
+2014,Fingal,County,18.4
+2014,Galway City,County,15.8
+2014,Galway County,County,14.4
+2014,Kerry,County,11.8
+2014,Kildare,County,15.9
+2014,Kilkenny,County,13.6
+2014,Laois,County,14.3
+2014,Leinster,Province,15.5
+2014,Leitrim,County,12.7
+2014,Limerick City,County,15.6
+2014,Limerick County,County,13.8
+2014,Longford,County,14.1
+2014,Louth,County,15.1
+2014,Mayo,County,12.8
+2014,Meath,County,15.7
+2014,Mid-East,Region,15.5
+2014,Mid-West,Region,13.6
+2014,Midland,Region,14.6
+2014,Monaghan,County,13.7
+2014,Munster,Province,13.7
+2014,Offaly,County,14.5
+2014,Roscommon,County,12.6
+2014,Sligo,County,12.9
+2014,South Dublin,County,16.9
+2014,South-East,Region,14.1
+2014,South-West,Region,13.8
+2014,State,National,14.6
+2014,Tipperary,County,13.100000000000001
+2014,Ulster (part of),Province,12.9
+2014,Waterford City,County,16.4
+2014,Waterford County,County,12.5
+2014,West,Region,13.9
+2014,Westmeath,County,15.4
+2014,Wexford,County,14.2
+2014,Wicklow,County,14.4
+2015,Border,Region,13.2
+2015,Carlow,County,14.5
+2015,Cavan,County,14.2
+2015,Clare,County,13.0
+2015,Connacht,Province,13.1
+2015,Cork City,County,12.8
+2015,Cork County,County,14.5
+2015,Donegal,County,11.9
+2015,Dublin,Region,14.8
+2015,Dublin City,County,14.2
+2015,Dun Laoghaire-Rathdown,County,13.0
+2015,Fingal,County,16.8
+2015,Galway City,County,14.7
+2015,Galway County,County,13.9
+2015,Kerry,County,11.5
+2015,Kildare,County,15.3
+2015,Kilkenny,County,12.7
+2015,Laois,County,14.2
+2015,Leinster,Province,14.5
+2015,Leitrim,County,13.0
+2015,Limerick City,County,14.4
+2015,Limerick County,County,14.1
+2015,Longford,County,14.4
+2015,Louth,County,14.7
+2015,Mayo,County,12.1
+2015,Meath,County,14.5
+2015,Mid-East,Region,14.7
+2015,Mid-West,Region,13.8
+2015,Midland,Region,13.8
+2015,Monaghan,County,13.3
+2015,Munster,Province,13.6
+2015,Offaly,County,12.7
+2015,Roscommon,County,11.9
+2015,Sligo,County,12.3
+2015,South Dublin,County,15.3
+2015,South-East,Region,13.3
+2015,South-West,Region,13.6
+2015,State,National,14.0
+2015,Tipperary,County,13.3
+2015,Ulster (part of),Province,12.8
+2015,Waterford City,County,14.1
+2015,Waterford County,County,13.0
+2015,West,Region,13.2
+2015,Westmeath,County,14.1
+2015,Wexford,County,13.5
+2015,Wicklow,County,14.1
+2016,Border,Region,12.9
+2016,Carlow,County,13.3
+2016,Cavan,County,14.1
+2016,Clare,County,12.4
+2016,Connacht,Province,12.9
+2016,Cork City,County,11.8
+2016,Cork County,County,13.4
+2016,Donegal,County,11.9
+2016,Dublin,Region,14.3
+2016,Dublin City,County,13.5
+2016,Dun Laoghaire-Rathdown,County,12.7
+2016,Fingal,County,16.5
+2016,Galway City,County,14.8
+2016,Galway County,County,13.6
+2016,Kerry,County,11.7
+2016,Kildare,County,14.7
+2016,Kilkenny,County,12.1
+2016,Laois,County,13.3
+2016,Leinster,Province,14.0
+2016,Leitrim,County,13.0
+2016,Limerick City,County,14.7
+2016,Limerick County,County,13.0
+2016,Longford,County,14.9
+2016,Louth,County,13.9
+2016,Mayo,County,11.9
+2016,Meath,County,14.1
+2016,Mid-East,Region,14.1
+2016,Mid-West,Region,13.0
+2016,Midland,Region,13.6
+2016,Monaghan,County,13.1
+2016,Munster,Province,12.9
+2016,Offaly,County,12.7
+2016,Roscommon,County,11.7
+2016,Sligo,County,12.0
+2016,South Dublin,County,14.8
+2016,South-East,Region,12.7
+2016,South-West,Region,12.8
+2016,State,National,13.5
+2016,Tipperary,County,12.85
+2016,Ulster (part of),Province,12.7
+2016,Waterford City,County,11.6
+2016,Waterford County,County,13.6
+2016,West,Region,13.0
+2016,Westmeath,County,14.1
+2016,Wexford,County,12.6
+2016,Wicklow,County,13.4
+2017,Border,Region,12.4
+2017,Carlow,County,13.4
+2017,Cavan,County,13.7
+2017,Clare,County,11.9
+2017,Connacht,Province,12.2
+2017,Cork City,County,11.1
+2017,Cork County,County,13.0
+2017,Donegal,County,11.4
+2017,Dublin,Region,13.5
+2017,Dublin City,County,13.0
+2017,Dun Laoghaire-Rathdown,County,9.3
+2017,Fingal,County,15.1
+2017,Galway City,County,12.1
+2017,Galway County,County,13.4
+2017,Kerry,County,11.2
+2017,Kildare,County,14.0
+2017,Kilkenny,County,11.7
+2017,Laois,County,13.9
+2017,Leinster,Province,13.4
+2017,Leitrim,County,12.3
+2017,Limerick City,County,13.5
+2017,Limerick County,County,13.0
+2017,Longford,County,13.1
+2017,Louth,County,13.3
+2017,Mayo,County,11.4
+2017,Meath,County,13.6
+2017,Mid-East,Region,13.5
+2017,Mid-West,Region,12.7
+2017,Midland,Region,13.6
+2017,Monaghan,County,12.4
+2017,Munster,Province,12.4
+2017,Offaly,County,12.7
+2017,Roscommon,County,11.7
+2017,Sligo,County,11.3
+2017,South Dublin,County,17.8
+2017,South-East,Region,12.3
+2017,South-West,Region,12.3
+2017,State,National,12.9
+2017,Tipperary,County,12.45
+2017,Ulster (part of),Province,12.2
+2017,Waterford City,County,11.8
+2017,Waterford County,County,12.2
+2017,West,Region,12.4
+2017,Westmeath,County,14.2
+2017,Wexford,County,12.6
+2017,Wicklow,County,12.8
+2018,Border,Region,12.3
+2018,Carlow,County,14.3
+2018,Cavan,County,13.2
+2018,Clare,County,11.4
+2018,Connacht,Province,11.9
+2018,Cork City,County,10.8
+2018,Cork County,County,12.9
+2018,Donegal,County,11.6
+2018,Dublin,Region,13.1
+2018,Dublin City,County,12.5
+2018,Dun Laoghaire-Rathdown,County,11.4
+2018,Fingal,County,14.9
+2018,Galway City,County,12.5
+2018,Galway County,County,12.7
+2018,Kerry,County,11.0
+2018,Kildare,County,13.3
+2018,Kilkenny,County,11.1
+2018,Laois,County,12.1
+2018,Leinster,Province,12.9
+2018,Leitrim,County,12.7
+2018,Limerick City,County,13.6
+2018,Limerick County,County,12.5
+2018,Longford,County,13.2
+2018,Louth,County,12.9
+2018,Mayo,County,11.0
+2018,Meath,County,13.0
+2018,Mid-East,Region,12.8
+2018,Mid-West,Region,12.4
+2018,Midland,Region,12.6
+2018,Monaghan,County,13.1
+2018,Munster,Province,12.3
+2018,Offaly,County,11.8
+2018,Roscommon,County,10.8
+2018,Sligo,County,12.0
+2018,South Dublin,County,13.9
+2018,South-East,Region,12.1
+2018,South-West,Region,12.1
+2018,State,National,12.6
+2018,Tipperary,County,12.7
+2018,Ulster (part of),Province,12.3
+2018,Waterford City,County,13.2
+2018,Waterford County,County,11.4
+2018,West,Region,11.9
+2018,Westmeath,County,13.4
+2018,Wexford,County,11.8
+2018,Wicklow,County,11.5
+2019,Border,Region,11.6
+2019,Carlow,County,12.7
+2019,Cavan,County,12.4
+2019,Clare,County,10.9
+2019,Connacht,Province,11.9
+2019,Cork City,County,10.5
+2019,Cork County,County,12.1
+2019,Donegal,County,11.0
+2019,Dublin,Region,12.5
+2019,Dublin City,County,12.1
+2019,Dun Laoghaire-Rathdown,County,10.8
+2019,Fingal,County,13.7
+2019,Galway City,County,11.4
+2019,Galway County,County,12.6
+2019,Kerry,County,10.3
+2019,Kildare,County,12.9
+2019,Kilkenny,County,10.7
+2019,Laois,County,12.5
+2019,Leinster,Province,12.4
+2019,Leitrim,County,12.9
+2019,Limerick City,County,13.7
+2019,Limerick County,County,11.3
+2019,Longford,County,13.7
+2019,Louth,County,12.4
+2019,Mayo,County,11.1
+2019,Meath,County,13.2
+2019,Mid-East,Region,12.6
+2019,Mid-West,Region,11.5
+2019,Midland,Region,12.3
+2019,Monaghan,County,11.7
+2019,Munster,Province,11.4
+2019,Offaly,County,11.4
+2019,Roscommon,County,12.3
+2019,Sligo,County,11.2
+2019,South Dublin,County,13.6
+2019,South-East,Region,11.5
+2019,South-West,Region,11.4
+2019,State,National,12.0
+2019,Tipperary,County,11.2
+2019,Ulster (part of),Province,11.5
+2019,Waterford City,County,12.9
+2019,Waterford County,County,10.1
+2019,West,Region,11.9
+2019,Westmeath,County,12.4
+2019,Wexford,County,11.6
+2019,Wicklow,County,11.7
+2020,Border,Region,11.3
+2020,Carlow,County,12.6
+2020,Cavan,County,12.9
+2020,Clare,County,10.6
+2020,Connacht,Province,10.8
+2020,Cork City,County,9.9
+2020,Cork County,County,11.8
+2020,Donegal,County,10.4
+2020,Dublin,Region,11.7
+2020,Dublin City,County,11.3
+2020,Dun Laoghaire-Rathdown,County,10.1
+2020,Fingal,County,12.9
+2020,Galway City,County,10.4
+2020,Galway County,County,11.4
+2020,Kerry,County,9.8
+2020,Kildare,County,12.7
+2020,Kilkenny,County,9.8
+2020,Laois,County,10.7
+2020,Leinster,Province,11.7
+2020,Leitrim,County,11.5
+2020,Limerick City,County,12.1
+2020,Limerick County,County,11.8
+2020,Longford,County,12.5
+2020,Louth,County,11.7
+2020,Mayo,County,10.1
+2020,Meath,County,11.9
+2020,Mid-East,Region,11.9
+2020,Mid-West,Region,11.2
+2020,Midland,Region,11.7
+2020,Monaghan,County,12.0
+2020,Munster,Province,11.1
+2020,Offaly,County,11.1
+2020,Roscommon,County,10.6
+2020,Sligo,County,11.1
+2020,South Dublin,County,12.6
+2020,South-East,Region,11.0
+2020,South-West,Region,11.0
+2020,State,National,11.4
+2020,Tipperary,County,10.8
+2020,Ulster (part of),Province,11.4
+2020,Waterford City,County,12.5
+2020,Waterford County,County,10.3
+2020,West,Region,10.7
+2020,Westmeath,County,12.8
+2020,Wexford,County,10.9
+2020,Wicklow,County,10.9
+2021,Border,Region,11.5
+2021,Carlow,County,12.6
+2021,Cavan,County,12.2
+2021,Clare,County,11.0
+2021,Connacht,Province,11.6
+2021,Cork City,County,10.3
+2021,Cork County,County,12.2
+2021,Donegal,County,10.4
+2021,Dublin,Region,12.2
+2021,Dublin City,County,11.8
+2021,Dun Laoghaire-Rathdown,County,9.0
+2021,Fingal,County,13.4
+2021,Galway City,County,10.7
+2021,Galway County,County,12.6
+2021,Kerry,County,11.0
+2021,Kildare,County,12.7
+2021,Kilkenny,County,10.6
+2021,Laois,County,11.8
+2021,Leinster,Province,12.2
+2021,Leitrim,County,12.1
+2021,Limerick City,County,12.5
+2021,Limerick County,County,11.4
+2021,Longford,County,12.6
+2021,Louth,County,12.1
+2021,Mayo,County,11.0
+2021,Meath,County,13.2
+2021,Mid-East,Region,12.5
+2021,Mid-West,Region,11.6
+2021,Midland,Region,12.2
+2021,Monaghan,County,13.1
+2021,Munster,Province,11.6
+2021,Offaly,County,11.6
+2021,Roscommon,County,11.3
+2021,Sligo,County,11.4
+2021,South Dublin,County,15.4
+2021,South-East,Region,11.3
+2021,South-West,Region,11.6
+2021,State,National,11.9
+2021,Tipperary,County,12.1
+2021,Ulster (part of),Province,11.4
+2021,Waterford City,County,12.8
+2021,Waterford County,County,10.2
+2021,West,Region,11.6
+2021,Westmeath,County,13.0
+2021,Wexford,County,11.4
+2021,Wicklow,County,11.7
+2022,Border,Region,10.4
+2022,Carlow,County,11.6
+2022,Cavan,County,12.1
+2022,Clare,County,9.6
+2022,Connacht,Province,10.2
+2022,Cork City,County,8.7
+2022,Cork County,County,10.5
+2022,Donegal,County,9.8
+2022,Dublin,Region,10.7
+2022,Dublin City,County,10.8
+2022,Dun Laoghaire-Rathdown,County,8.7
+2022,Fingal,County,11.0
+2022,Galway City,County,8.4
+2022,Galway County,County,11.5
+2022,Kerry,County,9.2
+2022,Kildare,County,11.2
+2022,Kilkenny,County,9.7
+2022,Laois,County,10.1
+2022,Leinster,Province,10.7
+2022,Leitrim,County,11.0
+2022,Limerick City,County,11.9
+2022,Limerick County,County,10.4
+2022,Longford,County,11.0
+2022,Louth,County,11.0
+2022,Mayo,County,10.0
+2022,Meath,County,11.5
+2022,Mid-East,Region,11.1
+2022,Mid-West,Region,10.3
+2022,Midland,Region,10.5
+2022,Monaghan,County,10.5
+2022,Munster,Province,10.1
+2022,Offaly,County,9.9
+2022,Roscommon,County,9.8
+2022,Sligo,County,9.5
+2022,South Dublin,County,11.7
+2022,South-East,Region,10.5
+2022,South-West,Region,9.9
+2022,State,National,10.5
+2022,Tipperary,County,10.1
+2022,Ulster (part of),Province,10.5
+2022,Waterford City,County,12.4
+2022,Waterford County,County,9.5
+2022,West,Region,10.3
+2022,Westmeath,County,11.3
+2022,Wexford,County,10.5
+2022,Wicklow,County,10.2
+2023,Border,Region,10.4
+2023,Carlow,County,10.4
+2023,Cavan,County,11.8
+2023,Clare,County,9.4
+2023,Connacht,Province,9.9
+2023,Cork City,County,9.1
+2023,Cork County,County,10.0
+2023,Donegal,County,10.0
+2023,Dublin,Region,10.4
+2023,Dublin City,County,10.3
+2023,Dun Laoghaire-Rathdown,County,9.0
+2023,Fingal,County,10.8
+2023,Galway City,County,8.7
+2023,Galway County,County,11.0
+2023,Kerry,County,8.8
+2023,Kildare,County,11.9
+2023,Kilkenny,County,9.4
+2023,Laois,County,10.2
+2023,Leinster,Province,10.6
+2023,Leitrim,County,9.3
+2023,Limerick City,County,12.1
+2023,Limerick County,County,10.0
+2023,Longford,County,11.2
+2023,Louth,County,10.9
+2023,Mayo,County,9.5
+2023,Meath,County,11.8
+2023,Mid-East,Region,11.2
+2023,Mid-West,Region,10.1
+2023,Midland,Region,10.5
+2023,Monaghan,County,11.0
+2023,Munster,Province,9.8
+2023,Offaly,County,10.0
+2023,Roscommon,County,9.6
+2023,Sligo,County,9.9
+2023,South Dublin,County,11.2
+2023,South-East,Region,10.1
+2023,South-West,Region,9.6
+2023,State,National,10.3
+2023,Tipperary,County,9.9
+2023,Ulster (part of),Province,10.7
+2023,Waterford City,County,12.1
+2023,Waterford County,County,8.6
+2023,West,Region,10.0
+2023,Westmeath,County,11.1
+2023,Wexford,County,10.6
+2023,Wicklow,County,9.8

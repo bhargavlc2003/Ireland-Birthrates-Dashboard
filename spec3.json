@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width": "container",
+  "height": 500,
+
+  "data": {"url": "birth_rates_deviation.csv"},
+
+  "params": [
+    {
+      "name": "year",
+      "value": 2008,
+      "bind": {
+        "input": "select",
+        "options": [2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023],
+        "name": "Year: "
+      }
+    }
+  ],
+
+  "transform": [
+    {"calculate": "toNumber(datum.Year)", "as": "Year_num"},
+    {"filter": "datum.Level == 'County'"},
+    {"filter": "datum.Year_num == year"}
+  ],
+
+  "mark": "bar",
+
+  "encoding": {
+    "y": {
+      "field": "Area",
+      "type": "nominal",
+      "sort": "-x",
+      "title": "County"
+    },
+
+    "x": {
+      "field": "DeviationFromNational",
+      "type": "quantitative",
+      "title": "Deviation from National Rate"
+    },
+
+    "color": {
+      "condition": {
+        "test": "datum.DeviationFromNational > 0",
+        "value": "steelblue"
+      },
+      "value": "tomato"
+    },
+
+    "tooltip": [
+      {"field": "Area"},
+      {"field": "BirthRate"},
+      {"field": "NationalRate"},
+      {"field": "DeviationFromNational", "format": ".2f"}
+    ]
+  }
+}

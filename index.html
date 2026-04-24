@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Ireland Birth Rates Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+    h1 { text-align: center; color: #333; }
+    .viz-box {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .viz-box h2 { margin-top: 0; color: #555; font-size: 1.2em; }
+    .vega-viz { width: 100%; }
+  </style>
+</head>
+<body>
+
+  <h1>Ireland Birth Rates Analysis (2008-2023)</h1>
+  <p>Source: Central Statistics Office <a href="https://data.cso.ie/table/VSA38">Link</a></p>
+  <div class="viz-box">
+    <h2>1. National Birth Rate Over the Years</h2>
+    <div id="vis1" class="vega-viz"></div>
+  </div>
+
+  <div class="viz-box">
+    <h2>2. Provincial/Regional Comparison </h2>
+    <div id="vis2" class="vega-viz"></div>
+  </div>
+  <div class="viz-box">
+    <h2>3. County wise deviation from National Rate</h2>
+    <div id="vis3" class="vega-viz"></div>
+  </div>
+    <div class="viz-box">
+    <h2>4. County Heatmap</h2>
+    <div id="vis4" class="vega-viz"></div>
+  </div>
+  <div class="viz-box">
+    <h2>5. Top 15 Counties (Interactive Year Slider)</h2>
+    <div id="vis5" class="vega-viz"></div>
+  </div>
+  <script>
+    vegaEmbed('#vis1', 'spec1.json');
+    vegaEmbed('#vis2', 'spec2.json');
+    vegaEmbed('#vis3', 'spec3.json');
+    vegaEmbed('#vis4', 'spec4.json');
+    vegaEmbed('#vis5', 'spec5.json');
+  </script>
+  <footer style="text-align: center">
+    Made By: Bhargav Chaudhari - 25201592
+  </footer>
+</body>
+</html>

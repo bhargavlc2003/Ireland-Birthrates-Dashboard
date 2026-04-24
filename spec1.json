@@ -1,0 +1,16 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 300,
+  "data": {"url": "clean_birth_rates.csv"},
+  "transform": [{"filter": "datum.Level == 'National'"}],
+  "mark": {"type": "line", "point": true, "strokeWidth": 3},
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+    "y": {"field": "BirthRate", "type": "quantitative", "title": "Birth Rate", "scale": {"zero": false}},
+    "tooltip": [
+      {"field": "Year", "type": "ordinal"},
+      {"field": "BirthRate", "type": "quantitative", "format": ".1f"}
+    ]
+  }
+}
